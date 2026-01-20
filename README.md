@@ -82,8 +82,6 @@ We retain logs and telemetry only as long as necessary for:
 - Performance and security  
 - Legal compliance  
 
-Upon request, identifiable information (if any exists) can be deleted.
-
 ---
 
 ## 6. Children’s Privacy
@@ -106,18 +104,12 @@ These services receive only the information required to operate their function a
 
 ---
 
-## 8. Your Rights and Choices
+## 8. Your Data Rights
 
-Depending on your region, you may have the right to:
-- Request deletion of data associated with you  
-- Request a copy of any data we store  
-- Opt out of non-essential analytics  
-
-You can make a request by contacting:
-
-**Email:** bluecoinrp@gmail.com
-
-We will respond within the timeframe required by local law.
+You can request deletion of your data at any time, no matter where you live, and at no cost.
+To request deletion, email bluecoinstudios@gmail.com with:
+Subject: Data Deletion Request
+Message: Your Meta username
 
 ---
 
@@ -147,4 +139,4 @@ If changes are significant, the “Last Updated” date will be revised and we m
 For privacy concerns or questions, contact us at:
 
 **BlueCoin Studios**  
-**Email:** bluecoinrp@gmail.com  
+**Email:** bluecoin@gmail.com  
